@@ -6,6 +6,7 @@
    if(!isset($_SESSION['IS_LOGIN'])){
 
    	redirect('login.php');
+   	
    }
    
 

@@ -10,7 +10,7 @@
    	redirect('login.php');
 
    }
-   
+
 ?>
 <!DOCTYPE html>
 <html>
